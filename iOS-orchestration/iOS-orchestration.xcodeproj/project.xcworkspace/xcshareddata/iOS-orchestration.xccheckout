@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1947ECD-A460-4CCC-AAFA-04EA2CB5A60C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4EE42F5681A248003A0AF3656659CA0D679D2B2</key>
+		<string>https://github.com/ryangoce/ios-orchestration.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS-orchestration/iOS-orchestration.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4EE42F5681A248003A0AF3656659CA0D679D2B2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ryangoce/ios-orchestration.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4EE42F5681A248003A0AF3656659CA0D679D2B2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4EE42F5681A248003A0AF3656659CA0D679D2B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-orchestration</string>
+		</dict>
+	</array>
+</dict>
+</plist>
